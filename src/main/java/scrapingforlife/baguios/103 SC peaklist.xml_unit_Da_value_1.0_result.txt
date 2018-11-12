@@ -1,0 +1,16 @@
+User            : Rodrigo
+Email           : rodrigodogc2010@hotmail.com
+Search title    : 
+MS data file    : 103 SC peaklist.xml
+Database        : SwissProt 2018_09 (558590 sequences; 200544181 residues)
+Taxonomy        : Viridiplantae (Green Plants) (39669 sequences)
+Timestamp       : 4 Nov 2018 at 05:10:25 GMT
+Top Score       : 34 for GNA2_ORYSJ, Probable glucosamine 6-phosphate N-acetyltransferase 2 OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0717700 PE=2 SV=2
+
+Database:SwissProt
+Score:34
+Expect:17
+Monoisotopic mass (Mr):18007
+Calculated pI:5.41
+Taxonomy:Oryza sativa Japonica Group
+

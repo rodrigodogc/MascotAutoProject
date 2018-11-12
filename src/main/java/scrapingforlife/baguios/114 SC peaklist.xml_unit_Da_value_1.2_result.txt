@@ -1,0 +1,29 @@
+User            : Diogo
+Email           : diogomsb1@gmail.com
+Search title    : 
+MS data file    : 114 SC peaklist.xml
+Database        : SwissProt 2018_09 (558590 sequences; 200544181 residues)
+Timestamp       : 4 Nov 2018 at 04:34:35 GMT
+Top Score       : 44 for MURB_BART1, UDP-N-acetylenolpyruvoylglucosamine reductase OS=Bartonella tribocorum (strain CIP 105476 / IBS 506) OX=382640 GN=murB PE=3 SV=1
+
+Database:SwissProt
+Score:44
+Expect:20
+Monoisotopic mass (Mr):35646
+Calculated pI:6.11
+Taxonomy:Bartonella tribocorum CIP 105476
+
+Database:SwissProt
+Score:28
+Expect:8.1e+02
+Monoisotopic mass (Mr):24690
+Calculated pI:5.69
+Taxonomy:Rhodoferax ferrireducens T118
+
+Database:SwissProt
+Score:28
+Expect:8.5e+02
+Monoisotopic mass (Mr):4436
+Calculated pI:10.71
+Taxonomy:Pseudothermotoga lettingae TMO
+

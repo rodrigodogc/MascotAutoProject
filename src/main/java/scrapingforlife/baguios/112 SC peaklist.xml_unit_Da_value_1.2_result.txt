@@ -1,0 +1,16 @@
+User            : drpirola
+Email           : rodrigodogc2010@hotmail.com
+Search title    : 
+MS data file    : 112 SC peaklist.xml
+Database        : SwissProt 2018_09 (558590 sequences; 200544181 residues)
+Taxonomy        : Viridiplantae (Green Plants) (39669 sequences)
+Timestamp       : 5 Nov 2018 at 22:03:19 GMT
+Top Score       : 36 for 4CL4_ARATH, 4-coumarate--CoA ligase 4 OS=Arabidopsis thaliana OX=3702 GN=4CL4 PE=1 SV=1
+
+Database:SwissProt
+Score:36
+Expect:10
+Monoisotopic mass (Mr):62975
+Calculated pI:5.53
+Taxonomy:Arabidopsis thaliana
+

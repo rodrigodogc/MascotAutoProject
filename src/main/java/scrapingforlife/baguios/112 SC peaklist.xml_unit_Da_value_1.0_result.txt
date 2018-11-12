@@ -1,0 +1,23 @@
+User            : Rodrigo
+Email           : rodrigodogc2010@hotmail.com
+Search title    : 
+MS data file    : 112 SC peaklist.xml
+Database        : SwissProt 2018_09 (558590 sequences; 200544181 residues)
+Taxonomy        : Viridiplantae (Green Plants) (39669 sequences)
+Timestamp       : 4 Nov 2018 at 05:10:25 GMT
+Top Score       : 38 for RHF1A_ARATH, E3 ubiquitin-protein ligase RHF1A OS=Arabidopsis thaliana OX=3702 GN=RHF1A PE=1 SV=1
+
+Database:SwissProt
+Score:38
+Expect:5.6
+Monoisotopic mass (Mr):40772
+Calculated pI:6.89
+Taxonomy:Arabidopsis thaliana
+
+Database:SwissProt
+Score:23
+Expect:1.9e+02
+Monoisotopic mass (Mr):999
+Calculated pI:11.27
+Taxonomy:Spinacia oleracea
+
